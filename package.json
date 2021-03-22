@@ -9,7 +9,9 @@
   "scripts": {
     "netlify": "netlify dev"
   },
-  "keywords": ["node"],
+  "keywords": [
+    "node"
+  ],
   "author": "vania dimova",
   "license": "ISC",
   "dependencies": {
